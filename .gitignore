@@ -47,3 +47,4 @@ src/environments/environment.ts
 
 # Comentário.
 package-lock.json
+yarn.lock
